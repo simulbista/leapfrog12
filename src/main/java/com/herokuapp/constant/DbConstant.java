@@ -20,7 +20,7 @@ public class DbConstant {
     public static final String DB_DRIVER = "org.postgresql.Driver";
     public static final String DB_URL = "jdbc:postgresql:"
             + "//ec2-54-163-229-212.compute-1."
-            + "amazonaws.com/d6cv9vltji77dt?sslmodel  = require";
+            + "amazonaws.com/d6cv9vltji77dt?sslmode  = require";
     public static final String DB_USER = "fpyxgobvizinrb";
     public static final String DB_Password
             = "a9389d3d32cfda88f2675c73d237ce97cf6c4c79306c47a434322f37cf2d935d";
